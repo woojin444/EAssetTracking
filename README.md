@@ -1,11 +1,11 @@
-![alt text](https://github.com/woojin444/EAssetTracking/tree/master/Landing/Thales_Logo.svg "Thales")
+![alt text](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales_Logo.svg "Thales")
 
 # Engineering: Asset Tracking
 
 ## Useful Links
 
 * [Google Drive](https://drive.google.com/drive/folders/1QvoNm8ubeYhhB7RwM7lhmPwtDihMflWQ) - Directory of project documents
-* [Project Brief](https://github.com/woojin444/EAssetTracking/tree/master/Landing/Thales-Techlauncher-2018-S1)
+* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf)
 
 ## Contributors
 

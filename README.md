@@ -11,7 +11,7 @@
 
 | Name | Uni ID | Role |
 |:----:|:------:| ---- |
-| **Alisha Boniface** | [u5799388](https://github.com/alisha2b) | + Hardware<br />* Scheduling |
+| **Alisha Boniface** | [u5799388](https://github.com/alisha2b) | <ul><li>Hardware</li><li>Scheduling</li></ul> |
 | **Dillon McGrath** | [u5784121](https://github.com/DPMcGrath) | * Hardware<br />* Ergonomics<br />* Meeting Scribe |
 | **Franklin Wilson** | [u5801853](https://github.com/franklinwtc) | * Team Communication<br />* Hardware<br />* Audit Slides |
 | **Jordan Schaeffer** | [u5800267](https://github.com/JordanSchaeffer) | * Hardware<br />* Software<br />* Parts |

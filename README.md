@@ -4,7 +4,7 @@
 
 ## Useful Links
 
-* [Google Drive](https://drive.google.com/drive/folders/1QvoNm8ubeYhhB7RwM7lhmPwtDihMflWQ) - Directory of project documents
+* [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr) - Directory of project documents
 * [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf)
 
 ## Contributors

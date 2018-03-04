@@ -17,8 +17,6 @@ The focus of the project revolves around two unique parts:
 * Mining companies - Potential end users of the project.
 * Oil companies - Potential end users of the project.
 
-Please contact [Franklin Wilson](mailto:u5801853@anu.edu.au) or any other team member if you have any questions.
-
 ## Resources and Costs
 
 The budget of $100 is available from the TechLauncher program and will mainly be spent on parts required for the prototype.
@@ -57,9 +55,6 @@ The team meetings with the clients fornightly to discuss the project. In this ti
 | **Jordan Schaeffer** | [u5800267](https://github.com/JordanSchaeffer) | - Hardware<br />- Software<br />- Parts | [e-mail](mailto:u5800267@anu.edu.au) |
 | **Rob Whittaker** | [u5589395](https://github.com/Robwhit) | - Team Manager<br />- Software<br />- Repo Maintenance | [e-mail](mailto:u5589395@anu.edu.au) |
 | **Woojin Ra** | [u6058768](https://github.com/woojin444) | - Client Communication<br />- Software<br />- Repo Maintenance | [e-mail](mailto:u6058768@anu.edu.au) |
-
-
-
 
 ## Tools
 

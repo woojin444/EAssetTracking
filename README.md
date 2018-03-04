@@ -1,4 +1,4 @@
-![alt text](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales_Logo.svg "Thales")
+![Thales logo](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales_Logo.svg "Thales")
 
 # Engineering: Asset Tracking
 [![GitHub issues](https://img.shields.io/github/issues/woojin444/EAssetTracking.svg)](https://github.com/woojin444/EAssetTracking/issues)

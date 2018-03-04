@@ -64,18 +64,22 @@ The team meetings with the clients fornightly to discuss the project. In this ti
 ## Tools
 
 <img src="https://github.com/woojin444/EAssetTracking/blob/master/Landing/GitHub.png" width="50" height="50" />
+
 **GitHub**
 The team decided to utilize the issues function in GitHub as one of our main management tools. The team will rearrange issue cards between columns that represent "To Do", "In Progress", "Done" and such.
 Furthermore, the source code and certain documents will be stored on GitHub in the interest of parallel workflow.
 
 <img src="https://github.com/woojin444/EAssetTracking/blob/master/Landing/CLanguage.png" width="50" height="50" />
+
 **Coding Language**
 When building the prototype (estimated at week 7) our team will need to program some code. To do this our team is required to choose a programming language in which to program with. At this point in time it seems that the most likely language that we will use will be C. C is the most common language that the majority of the team have experience in. Another benefit is that it has applications in software and embedded hardware applications. 
 
 <img src="https://github.com/woojin444/EAssetTracking/blob/master/Landing/GoogleDrive.png" width="50" height="50" />
+
 **Google Drive**
 Google drive will be used to manage documents containing research, meeting notes, planning, decisions and more. It will be separated into a private and public section to ensure the security of any confidential information provided by Thales. Only the public section will be available for viewing by observers. 
 
 <img src="https://github.com/woojin444/EAssetTracking/blob/master/Landing/Slack.png" width="50" height="50" />
+
 **Slack**
 Our team has decided to use Slack as the main communication mechanism for team members. We found that it was best to have multiple different channel for different topics. This made it easier for us to keep track of conversations.

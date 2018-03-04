@@ -76,6 +76,6 @@ When building the prototype (estimated at week 7) our team will need to program 
 **Google Drive**
 Google drive will be used to manage documents containing research, meeting notes, planning, decisions and more. It will be separated into a private and public section to ensure the security of any confidential information provided by Thales. Only the public section will be available for viewing by observers. 
 
-![Slack](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Slack.png "Slack" =50x50)
+![Slack](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Slack.png =50x50)
 **Slack**
 Our team has decided to use Slack as the main communication mechanism for team members. We found that it was best to have multiple different channel for different topics. This made it easier for us to keep track of conversations.

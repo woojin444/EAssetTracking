@@ -6,9 +6,9 @@
 
 ## Useful Links
 
-* [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr) - Directory of project documents
-* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf) - Project brief supplied by Thales
-* [Contributors](#Contributors)
+* [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr) - Directory of project documents.
+* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf) - Project brief supplied by Thales.
+* [Contributors](# Contributors) - Roles and contact details of each contributors of the project.
 
 ## Client's Vision
 

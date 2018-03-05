@@ -18,19 +18,32 @@ The focus of the project revolves around two unique parts:
 2. > High level architectural design of the solution including but limited to<br />- Requirements generation/analysis<br />- Functional flow/functional breakdown<br />- System/Subsystem interfaces
 
 ## Stakeholders
+There are multiple different stakeholders of the project. These include: the team, THALES, mining and oil companies and their employees.
 
-* Thales - Thales is investing time into the project for their future work and general interest in the technology. Therefore, no specific end users are currently in mind.
-* Mining companies - Potential end users of the project.
-* Oil companies - Potential end users of the project.
-* Employees of companies - Potential end users of the project.
+**Team**
+The team directly affects the success of the project. The team has a deep desire to achieve a meaningful outcome for THALES. The team aims to do the best work possible to not only meet the course assessment but more importantly deliver the project to THALES. 
+
+**THALES**
+THALES is the client of the project making them and the project team the two most important stakeholders in the project. THALES have an interest into this space as a potential future technology which they can sell. The success of this project could be a major factor in whether THALES pursues this technology further.  
+
+**Oil and Mining Companies**
+Since THALES aims to market and sell the system to a third party, the oil and mining companies that would purchase it are important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil and mining companies to better understand how they could benefit from an asset tracking system.
+
+**Oil and Mining Company Employees**
+If the project ends up being a success, the safety of employees that work in mines or on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
+
 
 ## Resources and Costs
 
 The budget of $100 is available from the TechLauncher program and will mainly be spent on parts required for the prototype.
 
-## Risks and Challenges
+## Risks and constraints
+The main risk involved in this project center on IP and confidentiality. THALES develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for THALES, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
 
-None written yet
+Throughout the project the team could be constrained by the IP of others. The asset tracking we have been tasked to develop will not be a world first as other companies, like Strava, already offer similar services. Without proper research into the current market to identify a gap, we risk delivering a product to THALES that is protected by the IP rights of another company, making it worthless to the client. With this in mind, a market report will form a large part of our deliverable to the client, outlining all of the various competitors on the market and the niche that our system fills.
+
+There may be some safety risks associated during any prototype construction and testing however these will be addressed as they become apparent and the appropriate risk assessment and mitigation strategies will be taken. 
+
 
 ## Meetings:  [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
 

@@ -2,7 +2,11 @@
 ![Thales logo](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales_Logo.svg "Thales")
 
 # Engineering: Asset Tracking
-[![GitHub issues](https://img.shields.io/github/issues/woojin444/EAssetTracking.svg)](https://github.com/woojin444/EAssetTracking/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/woojin444/EAssetTracking.svg)](https://github.com/woojin444/EAssetTracking/commits/master)
+[![GitHub contributors](https://img.shields.io/github/contributors/woojin444/EAssetTracking.svg)](#contributors)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/woojin444/EAssetTracking.svg)](https://github.com/woojin444/EAssetTracking/pulls)
+[![GitHub open issues](https://img.shields.io/github/issues/woojin444/EAssetTracking.svg)](https://github.com/woojin444/EAssetTracking/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/woojin444/EAssetTracking.svg)](https://github.com/woojin444/EAssetTracking/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Useful Links
 
@@ -17,42 +21,45 @@ The focus of the project revolves around two unique parts:
 1. > Market analysis<br />- What technologies are currently available that may address this problem?<br />- Is it possible to develop a solution utilising COTS components?<br />- Are there other organisations working in this area?
 2. > High level architectural design of the solution including but limited to<br />- Requirements generation/analysis<br />- Functional flow/functional breakdown<br />- System/Subsystem interfaces
 
+## Project Purpose
+
+None Written Yet
+
 ## Stakeholders
-There are multiple different stakeholders of the project. These include: the team, THALES, mining and oil companies and their employees.
+There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.
 
-**Team**
-The team directly affects the success of the project. The team has a deep desire to achieve a meaningful outcome for THALES. The team aims to do the best work possible to not only meet the course assessment but more importantly deliver the project to THALES. 
+**Team**<br />
+The team directly affects the success of the project. The team has a deep desire to achieve a meaningful outcome for Thales. The team aims to do the best work possible to not only meet the course assessment but more importantly deliver the project with value to Thales. 
 
-**THALES**
-THALES is the client of the project making them and the project team the two most important stakeholders in the project. THALES have an interest into this space as a potential future technology which they can sell. The success of this project could be a major factor in whether THALES pursues this technology further.  
+**Thales**<br />
+Thales is the client of the project making them and the project team the two most important stakeholders in the project. Thales have an interest into this space as a potential future technology which they can sell. The success of this project could be a major factor in whether Thales pursues this technology further.  
 
-**Oil and Mining Companies**
-Since THALES aims to market and sell the system to a third party, the oil and mining companies that would purchase it are important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil and mining companies to better understand how they could benefit from an asset tracking system.
+**Oil and Mining Companies**<br />
+Since Thales aims to market and sell the system to third parties, the oil and mining companies that would purchase it are also important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil and mining companies to better understand how they could benefit from an asset tracking system.
 
-**Oil and Mining Company Employees**
+**Oil and Mining Company Employees**<br />
 If the project ends up being a success, the safety of employees that work in mines or on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
-
 
 ## Resources and Costs
 
 The budget of $100 is available from the TechLauncher program and will mainly be spent on parts required for the prototype.
 
 ## Risks and constraints
-The main risk involved in this project center on IP and confidentiality. THALES develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for THALES, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
+The main risk involved in this project center on intellectual property and confidentiality. Thales develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for Thales, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
 
-Throughout the project the team could be constrained by the IP of others. The asset tracking we have been tasked to develop will not be a world first as other companies, like Strava, already offer similar services. Without proper research into the current market to identify a gap, we risk delivering a product to THALES that is protected by the IP rights of another company, making it worthless to the client. With this in mind, a market report will form a large part of our deliverable to the client, outlining all of the various competitors on the market and the niche that our system fills.
+Throughout the project the team could be constrained by the intellectual properties of others. The asset tracking we have been tasked to develop will not be a world first as other companies, like Strava, already offer similar services. Without proper research into the current market to identify a gap, we risk delivering a product to Thales that is protected by the intellectual property rights of another company, making it worthless to the client. With this in mind, a market report will form a large part of our deliverable to the client, outlining all of the various competitors on the market and the niche that our system fills.
 
 There may be some safety risks associated during any prototype construction and testing however these will be addressed as they become apparent and the appropriate risk assessment and mitigation strategies will be taken. 
 
 
-## Meetings:  [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
+## Meetings: [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
 
 Certain meeting notes are not available for public viewing as they contain sensitive information that is cannot be disclosed.
 ### [Team Meetings](https://drive.google.com/drive/folders/1cQXWK1z5KQEyvVXBOYfehOv8rlc7se-9)
 Team gathers for weekly meetings, usually at the time of 8:00am - 10:00am on Wednesdays. The meetings consist of discussions of weekly tasks and goals as well as personal and team performance. This allows struggling members to get help from the team and fairly distribute workload for the week.
 
 ### [Tutor Meetings](https://drive.google.com/drive/folders/1BS8u5f6mCJD_adbbDQrrOebkBwqrG4UW)
-During weekly tutor meetings, the team either perform an audit presentation or inform the tutor and the shadows of our progress. The tutor and oberservers will then provide recommendations allowing us to improve upon our work.
+During weekly tutor meetings, the team either performs an audit presentation or inform the tutor and the shadows of our progress. The tutor and oberservers will then provide recommendations allowing us to improve upon our work.
 
 ### [Client Meetings](https://drive.google.com/drive/folders/1n-N2s3irRv3vGNUbAsgqyEVSXxEOcGX5)
 The team meetings with the clients fornightly to discuss the project. In this time, the team communicates with the client by asking questions and receiving feedback regarding the project. These meetings are held in Thales office complex off-campus for the convience of the clients.

@@ -14,6 +14,7 @@
 * [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf)
 * [Client's Vision](#clients-vision)
 * [Project Purpose](#project-purpose)
+* [Project Scope](#project-scope)
 * [Stakeholders](#stakeholders)
 * [Resources and Costs](#resources-and-costs)
 * [Risks and Constraints](#risks-and-constraints)
@@ -32,6 +33,10 @@ The focus of the project revolves around two unique parts:
 ## Project Purpose
 
 The purpose of the project is not only to research, develop and prototype a relevant product, but to deliver value to the clients and ultimately the end users. Our main goal revolves around resolving end users' problems in a viable method. These methods include providing safety to personnel who are in danger and increasing time efficiency of clients.
+
+## Project Scope
+
+After preliminary market research on the topics of tracking systems in harsh environments, the scope of the project was decided to be personnel and asset tracking in oil rigs. The project will look into optimising existing systems for the target environment and processing data from the environment to improve efficiency for the clients.
 
 ## Stakeholders
 There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.

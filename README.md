@@ -27,11 +27,11 @@
 Thales' vision is to develop a tracking system to improve safety and efficiency of their personnel and equipment in dangerous environments such as mines and oil rigs. The clients expressed a broad scope for the project which was deemed difficult to complete in the given timeframe.
 The focus of the project revolves around two unique parts:
 1. > Market analysis<br />- What technologies are currently available that may address this problem?<br />- Is it possible to develop a solution utilising COTS components?<br />- Are there other organisations working in this area?
-2. > High level architectural design of the solution including but limited to<br />- Requirements generation/analysis<br />- Functional flow/functional breakdown<br />- System/Subsystem interfaces
+2. > High level architectural design of the solution including but limited to<br />- Requirements generation/analysis<br />- Functional flow/functional breakdown<br />- System/Subsystem interfaces<br />- Rapid prototyping to test ideas (evolve and iterate)
 
 ## Project Purpose
 
-None Written Yet
+The purpose of the project is not only to research, develop and prototype a relevant product, but to deliver value to the clients and ultimately the end users. Our main goal revolves around resolving end users' problems in a viable method. These methods include providing safety to personnel who are in danger and increasing time efficiency of clients.
 
 ## Stakeholders
 There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.
@@ -58,7 +58,6 @@ Throughout the project the team could be constrained by the intellectual propert
 
 There may be some safety risks associated during any prototype construction and testing however these will be addressed as they become apparent and the appropriate risk assessment and mitigation strategies will be taken. 
 
-
 ## Meetings: [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
 
 Certain meeting notes are not available for public viewing as they contain sensitive information that is cannot be disclosed.
@@ -78,7 +77,7 @@ The team meetings with the clients fornightly to discuss the project. In this ti
 
 | Name | Uni ID | Role | Contact |
 |:----:|:------:| ---- |:-------:|
-| **Alisha Boniface** | [u5799388](https://github.com/alisha2b) | - Hardware<br />- Scheduling | [e-mail](mailto:u5799388@anu.edu.au) |
+| **Alisha Boniface** | [u5799388](https://github.com/alisha2b) | - Hardware<br />- Scheduling<br />- Quality Control | [e-mail](mailto:u5799388@anu.edu.au) |
 | **Dillon McGrath** | [u5784121](https://github.com/DPMcGrath) | - Hardware<br />- Ergonomics<br />- Meeting Scribe | [e-mail](mailto:u5784121@anu.edu.au) |
 | **Franklin Wilson** | [u5801853](https://github.com/franklinwtc) | - Team Communication<br />- Hardware<br />- Audit Slides | [e-mail](mailto:u5801853@anu.edu.au) |
 | **Jordan Schaeffer** | [u5800267](https://github.com/JordanSchaeffer) | - Hardware<br />- Software<br />- Parts | [e-mail](mailto:u5800267@anu.edu.au) |

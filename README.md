@@ -10,9 +10,17 @@
 
 ## Useful Links
 
-* [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr) - Directory of project documents.
-* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf) - Project brief supplied by Thales.
-* [Contributors](#contributors) - Roles and contact details of each contributors of the project.
+* [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr) 
+* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf)
+* [Client's Vision](#client's-vision)
+* [Project Purpose](#project-purpose)
+* [Stakeholders](#stakeholders)
+* [Resources and Costs](#resources-and-costs)
+* [Risks and Constraints](#risks-and-constraints)
+* [Meetings](#meetings)
+* [Timeline](#timeline)
+* [Contributors](#contributors)
+* [Tools](#tools)
 
 ## Client's Vision
 
@@ -28,23 +36,22 @@ None Written Yet
 ## Stakeholders
 There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.
 
-**Team**<br />
+### Team
 The team directly affects the success of the project. The team has a deep desire to achieve a meaningful outcome for Thales. The team aims to do the best work possible to not only meet the course assessment but more importantly deliver the project with value to Thales. 
 
-**Thales**<br />
+### Thales
 Thales is the client of the project making them and the project team the two most important stakeholders in the project. Thales have an interest into this space as a potential future technology which they can sell. The success of this project could be a major factor in whether Thales pursues this technology further.  
 
-**Oil and Mining Companies**<br />
+### Oil and Mining Companies
 Since Thales aims to market and sell the system to third parties, the oil and mining companies that would purchase it are also important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil and mining companies to better understand how they could benefit from an asset tracking system.
-
-**Oil and Mining Company Employees**<br />
+### Oil and Mining Company Employees
 If the project ends up being a success, the safety of employees that work in mines or on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
 
 ## Resources and Costs
 
 The budget of $100 is available from the TechLauncher program and will mainly be spent on parts required for the prototype.
 
-## Risks and constraints
+## Risks and Constraints
 The main risk involved in this project center on intellectual property and confidentiality. Thales develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for Thales, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
 
 Throughout the project the team could be constrained by the intellectual properties of others. The asset tracking we have been tasked to develop will not be a world first as other companies, like Strava, already offer similar services. Without proper research into the current market to identify a gap, we risk delivering a product to Thales that is protected by the intellectual property rights of another company, making it worthless to the client. With this in mind, a market report will form a large part of our deliverable to the client, outlining all of the various competitors on the market and the niche that our system fills.

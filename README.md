@@ -18,6 +18,7 @@
 * [Stakeholders](#stakeholders)
 * [Resources and Costs](#resources-and-costs)
 * [Risks and Constraints](#risks-and-constraints)
+* [Feedback](#feedback)
 * [Meetings](#meetings-schedule)
 * [Timeline](#timeline)
 * [Contributors](#contributors)
@@ -32,11 +33,17 @@ The focus of the project revolves around two unique parts:
 
 ## Project Purpose
 
-The purpose of the project is not only to research, develop and prototype a relevant product, but to deliver value to the clients and ultimately the end users. Our main goal revolves around resolving end users' problems in a viable method. These methods include providing safety to personnel who are in danger and increasing time efficiency of clients.
+The main prupose of the project is to analyse the market situation of employee or asset tracking devices by providing a report to Thales. This is the amin aspect of the project which Thales is particularly interested in as it will provide value to the company.
+Furthermore, the team must develop and prototpye a relevant product that fit the requirements in a viable method (i.e. cost-effective and usable).
+
+## Requirements
+
+The key points outlined below show high level requirements for the project that can be futher broken down into sub-requirements.
 
 ## Project Scope
 
-After preliminary market research on the topics of tracking systems in harsh environments, the scope of the project was decided to be personnel and asset tracking in oil rigs. The project will look into optimising existing systems for the target environment and processing data from the environment to improve efficiency for the clients.
+The team decided to significantly narrow the initial scope of the project, which included emplyee and asset tracking within an oil rig and/or a mine. Throguh group meetings, we firstly decided to work on only oil rigs, thus having a stable platform to design our product.
+Still having a broad scope for the timeframe, the team made decisions on a tracking device which connects via radio to a receiver. This device aims to have functions which other devices on the market do not, thus improving upon them.
 
 ## Stakeholders
 There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.
@@ -49,19 +56,40 @@ Thales is the client of the project making them and the project team the two mos
 
 ### Oil and Mining Companies
 Since Thales aims to market and sell the system to third parties, the oil and mining companies that would purchase it are also important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil and mining companies to better understand how they could benefit from an asset tracking system.
+
 ### Oil and Mining Company Employees
 If the project ends up being a success, the safety of employees that work in mines or on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
 
 ## Resources and Costs
 
-The budget of $100 is available from the TechLauncher program and will mainly be spent on parts required for the prototype.
+The original funding on the project was 100 AUD, however the this may vary depending on the scope of the projecct and may increase with proper cost analysis.
+The main resources required for the project include the following:
+* Arduino Uno
+* Accelerometer
+* Water level and salinity sensor
+* Battery
+* Waterproofing (Plastic/3D printed)
+* RF Transmitter
+* RF Receiver x 2
 
 ## Risks and Constraints
+
+The majority of the risks the team will face is in the prototype stage since one minor failure in the components may lead to a catastrophic failure in the entire design. These risks include:
+* The device must be waterproof, as a major aspect of our design invlovles its submersion in water. All components of the design must be waterproof so the device does not malfunction.
+*
+
+
+
 The main risk involved in this project center on intellectual property and confidentiality. Thales develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for Thales, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
 
 Throughout the project the team could be constrained by the intellectual properties of others. The asset tracking we have been tasked to develop will not be a world first as other companies, like Strava, already offer similar services. Without proper research into the current market to identify a gap, we risk delivering a product to Thales that is protected by the intellectual property rights of another company, making it worthless to the client. With this in mind, a market report will form a large part of our deliverable to the client, outlining all of the various competitors on the market and the niche that our system fills.
 
-There may be some safety risks associated during any prototype construction and testing however these will be addressed as they become apparent and the appropriate risk assessment and mitigation strategies will be taken. 
+There may be some safety risks associated during any prototype construction and testing however these will be addressed as they become apparent and the appropriate risk assessment and mitigation strategies will be taken.
+
+## Feedback
+
+The team received feedback from our clients, tutor, course convenor and observers through various methods. The team analysed said feedback and reflected for improvements on the project and are shown in the [Google Drive](https://docs.google.com/document/d/1rkZmpdmAExL7jKnE6tXqHUPsCB86eKCPO98Ksk-Wqr4).
+Please note that it is difficult for our team to get exact
 
 ## Meetings: [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
 

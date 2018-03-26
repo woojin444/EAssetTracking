@@ -122,7 +122,8 @@ During weekly tutor meetings, the team either performs an audit presentation or 
 The team meetings with the clients fornightly to discuss the project. In this time, the team communicates with the client by asking questions and receiving feedback regarding the project. These meetings are held in Thales office complex off-campus for the convience of the clients.
 
 ## Timeline
-![Timeline](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Timeline.svg "Timeline")
+![Timeline](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Timeline.svg "Timeline")<br />
+Updated to v1.1
 
 ## Contributors
 

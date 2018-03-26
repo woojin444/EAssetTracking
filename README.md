@@ -40,6 +40,28 @@ Furthermore, the team must develop and prototpye a relevant product that fit the
 
 The key points outlined below show high level requirements for the project that can be futher broken down into sub-requirements.
 
+* Personnel Tracking<br />
+The tracking and the monitoring of personnel must be prioritised. Furthermore, their locations must be accessible in real time by relevant site supervisors for safety purposes.
+
+* Equipment Tracking<br />
+The system should also be attachable to larger pieces of equipment which allows tracking of said equipments. This will lead to improvements in efficiency and management of an oil rig.
+
+* Asset Location Analysis<br />
+The system will provide analysis tools for data collection. For example, the system should be able to provide information on patterns detected for activities such as:<br />
+&nbsp;&nbsp;&nbsp;* Personnel Movement<br />
+&nbsp;&nbsp;&nbsp;* Equipment Movement<br />
+&nbsp;&nbsp;&nbsp;* Safety Hazards<br />
+This information will then be used to improve efficiency and safety in an oil rig.
+
+* Emergency Notification<br />
+Personnel should be notified of an emergency via the system.
+
+* Fatigue Monitoring<br />
+The system will monitor workers fatigue levels as an added level of safety.
+
+* Seawater Detection<br />
+The system should detect if any personnel has fallen off the oil rig into the ocean.
+
 ## Project Scope
 
 The team decided to significantly narrow the initial scope of the project, which included emplyee and asset tracking within an oil rig and/or a mine. Throguh group meetings, we firstly decided to work on only oil rigs, thus having a stable platform to design our product.
@@ -75,10 +97,12 @@ The main resources required for the project include the following:
 ## Risks and Constraints
 
 The majority of the risks the team will face is in the prototype stage since one minor failure in the components may lead to a catastrophic failure in the entire design. These risks include:
+* The device must not fail at any circumstances since this may lead to catastrophic outcomes.
 * The device must be waterproof, as a major aspect of our design invlovles its submersion in water. All components of the design must be waterproof so the device does not malfunction.
-*
+* The device must be eqipped with a battery that enables at least a full day's worth of function.
 
-
+Our team communicated with Thales to refine our project after the first audit to ensure the team follows the right path.
+Risks and constraints given from the past audit have been significantly altered to convey better understanding 
 
 The main risk involved in this project center on intellectual property and confidentiality. Thales develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for Thales, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
 
@@ -89,7 +113,7 @@ There may be some safety risks associated during any prototype construction and 
 ## Feedback
 
 The team received feedback from our clients, tutor, course convenor and observers through various methods. The team analysed said feedback and reflected for improvements on the project and are shown in the [Google Drive](https://docs.google.com/document/d/1rkZmpdmAExL7jKnE6tXqHUPsCB86eKCPO98Ksk-Wqr4).
-Please note that it is difficult for our team to get exact
+As for feedback from the end users, please make note of the great difficulty in communicating with the end users since Thales has not specified.
 
 ## Meetings: [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
 

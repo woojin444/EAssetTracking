@@ -102,13 +102,7 @@ The majority of the risks the team will face is in the prototype stage since one
 * The device must be eqipped with a battery that enables at least a full day's worth of function.
 
 Our team communicated with Thales to refine our project after the first audit to ensure the team follows the right path.
-Risks and constraints given from the past audit have been significantly altered to convey better understanding 
-
-The main risk involved in this project center on intellectual property and confidentiality. Thales develops a number of unique systems that it sells to various clients and does not want any information about future projects leaking to their competitors. It is therefore important, since we are an external group working for Thales, that we place a premium on the security of information provided. Care and consideration has been put into the the best way to store information to maximize efficiency from the project team and ensuring that only public information is available for viewing by observers. In some circumstances this may be a constraint on the observer accurately assessing the work undertaken by the group. If this is a concern the observer should contact the group for clarification. 
-
-Throughout the project the team could be constrained by the intellectual properties of others. The asset tracking we have been tasked to develop will not be a world first as other companies, like Strava, already offer similar services. Without proper research into the current market to identify a gap, we risk delivering a product to Thales that is protected by the intellectual property rights of another company, making it worthless to the client. With this in mind, a market report will form a large part of our deliverable to the client, outlining all of the various competitors on the market and the niche that our system fills.
-
-There may be some safety risks associated during any prototype construction and testing however these will be addressed as they become apparent and the appropriate risk assessment and mitigation strategies will be taken.
+Risks and constraints stated from the past audit have been significantly altered to represent a refined idea of the project.
 
 ## Feedback
 

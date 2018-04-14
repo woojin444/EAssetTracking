@@ -12,7 +12,7 @@
 
 | Repository | Project Overview | Prototype | Team | 
 |:---------- |:---------------- |:--------- |:---- |
-| - [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr)<br />- [Wiki](https://github.com/woojin444/EAssetTracking/wiki)<br />- [Timeline](#timeline)<br />- [Tools](#tools) | - [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Thales%20Material/Thales-Techlauncher-2018-S1.pdf)<br />- [Client's Vision](#clients-vision)<br />- [Project Purpose](#project-purpose)<br />- [Project Scope](#project-scope)<br />- [Stakeholders](#stakeholders)<br />- [Risks and Constraints](#risks-and-constraints) | - [Requirements](#requirements)<br />- [Resources and Costs](#resources-and-costs)<br />- [System Architecture](#system-architecture)<br />- [Prototype](#prototype) | - [Contributors](#contributors)<br />- [Feedback](#feedback)<br />- [Meetings](#meetings-schedule) |
+| - [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr)<br />- [Wiki](https://github.com/woojin444/EAssetTracking/wiki)<br />- [Timeline](#timeline)<br />- [Tools](#tools) | - [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Thales%20Material/Thales-Techlauncher-2018-S1.pdf)<br />- [Client's Vision](#clients-vision)<br />- [Project Purpose](#project-purpose)<br />- [Project Scope](#project-scope)<br />- [Stakeholders](#stakeholders)<br />- [Risks and Constraints](#risks-and-constraints) | - [Requirements](#requirements)<br />- [Market Research](#market-research)<br />- [Resources and Costs](#resources-and-costs)<br />- [System Architecture](#system-architecture)<br />- [Prototype](#prototype) | - [Contributors](#contributors)<br />- [Feedback](#feedback)<br />- [Meetings](#meetings-schedule) |
 
 ## Client's Vision
 
@@ -54,6 +54,10 @@ The system should detect if any personnel has fallen off the oil rig into the oc
 ## Stakeholders
 
 In-depth analysis on stakeholders is documented in our [wiki](https://github.com/woojin444/EAssetTracking/wiki/Stakeholders).
+
+## Market Research [Report](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Report%20Material/Report.docx)
+
+
 
 ## Resources and Costs
 

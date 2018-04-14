@@ -57,7 +57,9 @@ In-depth analysis on stakeholders is documented in our [wiki](https://github.com
 
 ## Market Research [Report](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Report%20Material/Report.docx)
 
-
+Market research report that provides context into the importance of personnel safety in an oil rig environment followed by a preliminary market research into the development of a personnel/asset tracking system.
+The key requirements of the system include (1) tracking asset and personnel locations, (2) assisting with evacuation or rescue protocols, and (3) monitoring worker fatigue levels. Market reserach has found that the personnel/asset tracking market sector is a highly saturated one.
+However, a requirements based approach, followed by the comparison of various commercial off-the-self (COTS) system, suggests that there are areas in which existing systems could be improved in order to satisfy the clients' requirements better and also ensure that the system is well-suited to an oil rig environment.<br/>
 
 ## Resources and Costs
 

@@ -87,7 +87,21 @@ The purpose of the rapid prototype in this project is to validate models and val
 Testing of received signal strength in different environments to simulate an oil rig. This test will then be used to analyse the claims made by COTS products. This iteration will also be used to analyse the [path loss models](https://drive.google.com/open?id=1eTW31K58iL9IMQgo1sBdHNjTFcR5FB6I).<br />
 ![Iteration1](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration1.png)<br />
 In this iteration, the two Arduinos and the wireless transmitters and recievers will be used. The system can also use path loss model to determine the distance from the transmitter to the reciever.<br />
+![Iteration1gif](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration1.gif)<br />
 
+#### [06/04/2018 ~ 08/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_06-04-2018)
+
+#### [09/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_09-04-2018)
+
+### Iteration 2: Accelerometer
+
+Addition of an accelerometer to the system as a way of detecting a falling personnel. This iteration is to add the accelerometer to the transmitter to compliment the distance tracking.<br />
+![Iteration2](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration2.png)<br />
+
+### Iteration 3: Water Sensor
+
+Addition of a water sensor to determine if a personnel has fallen into the ocean. The concept behind this iteration is that if the water sensor detects water after the accelerometer has detected a fall, the transmitter will send an alert to the network.<br />
+![Iteration3](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration3.png)<br />
 ### Iteration 2: Accelerometer
 
 Addition of an accelerometer to the system as a way of detecting a falling personnel. This iteration is to add the accelerometer to the transmitter to compliment the distance tracking.<br />

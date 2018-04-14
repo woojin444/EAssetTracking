@@ -89,10 +89,10 @@ Testing of received signal strength in different environments to simulate an oil
 In this iteration, the two Arduinos and the wireless transmitters and recievers will be used. The system can also use path loss model to determine the distance from the transmitter to the reciever.<br />
 ![Iteration1gif](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration1.gif)<br />
 
-#### Iteration 1 Progress
+#### Iteration 1 Progress:
 
-[06/04/2018 ~ 08/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_06-04-2018)<br />
-[09/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_09-04-2018)<br />
+* [06/04/2018 ~ 08/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_06-04-2018)<br />
+* [09/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_09-04-2018)<br />
 
 ### Iteration 2: Accelerometer
 

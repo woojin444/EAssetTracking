@@ -15,8 +15,11 @@
 * [Client's Vision](#clients-vision)
 * [Project Purpose](#project-purpose)
 * [Project Scope](#project-scope)
+* [Requirements](#requirements)
 * [Stakeholders](#stakeholders)
 * [Resources and Costs](#resources-and-costs)
+* [System Architecture](#system-architecture)
+* [Prototype](#prototype)
 * [Risks and Constraints](#risks-and-constraints)
 * [Feedback](#feedback)
 * [Meetings](#meetings-schedule)
@@ -36,6 +39,11 @@ The focus of the project revolves around two unique parts:
 The main prupose of the project is to analyse the market situation of employee or asset tracking devices by providing a report to Thales. This is the amin aspect of the project which Thales is particularly interested in as it will provide value to the company.
 Furthermore, the team must develop and prototpye a relevant product that fit the requirements in a viable method (i.e. cost-effective and usable).
 
+## Project Scope
+
+The team decided to significantly narrow the initial scope of the project, which included emplyee and asset tracking within an oil rig and/or a mine. Throguh group meetings, we firstly decided to work on only oil rigs, thus having a stable platform to design our product.
+Still having a broad scope for the timeframe, the team made decisions on a tracking device which connects via radio to a receiver. This device aims to have functions which other devices on the market do not, thus improving upon them.
+
 ## Requirements
 
 The key points outlined below show high level requirements for the project that can be futher broken down into sub-requirements.
@@ -53,19 +61,8 @@ The system will provide analysis tools for data collection. For example, the sys
 &nbsp;&nbsp;&nbsp;* Safety Hazards<br />
 This information will then be used to improve efficiency and safety in an oil rig.
 
-* Emergency Notification<br />
-Personnel should be notified of an emergency via the system.
-
-* Fatigue Monitoring<br />
-The system will monitor workers fatigue levels as an added level of safety.
-
 * Seawater Detection<br />
 The system should detect if any personnel has fallen off the oil rig into the ocean.
-
-## Project Scope
-
-The team decided to significantly narrow the initial scope of the project, which included emplyee and asset tracking within an oil rig and/or a mine. Throguh group meetings, we firstly decided to work on only oil rigs, thus having a stable platform to design our product.
-Still having a broad scope for the timeframe, the team made decisions on a tracking device which connects via radio to a receiver. This device aims to have functions which other devices on the market do not, thus improving upon them.
 
 ## Stakeholders
 There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.
@@ -76,23 +73,37 @@ The team directly affects the success of the project. The team has a deep desire
 ### Thales
 Thales is the client of the project making them and the project team the two most important stakeholders in the project. Thales have an interest into this space as a potential future technology which they can sell. The success of this project could be a major factor in whether Thales pursues this technology further.  
 
-### Oil and Mining Companies
-Since Thales aims to market and sell the system to third parties, the oil and mining companies that would purchase it are also important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil and mining companies to better understand how they could benefit from an asset tracking system.
+### Oil Companies
+Since Thales aims to market and sell the system to third parties, the oil companies that would purchase it are also important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil companies to better understand how they could benefit from an asset tracking system.
 
-### Oil and Mining Company Employees
-If the project ends up being a success, the safety of employees that work in mines or on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
+### Oil Company Employees
+If the project ends up being a success, the safety of employees that work on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
 
 ## Resources and Costs
 
 The original funding on the project was 100 AUD, however the this may vary depending on the scope of the projecct and may increase with proper cost analysis.
-The main resources required for the project include the following:
-* Arduino Uno
-* Accelerometer
-* Water level and salinity sensor
-* Battery
-* Waterproofing (Plastic/3D printed)
-* RF Transmitter
-* RF Receiver x 2
+The main resources required for the project include the following: <br />
+| Item | Amount | Price (each) | Price (total) | Supplier | URL | 
+|:----:|:------:|:------------:|:-------------:|:--------:|:---:|
+| Arduino Uno | 2 | $16.45 | $32.90 | Aus Electronics Direct | [url](https://www.auselectronicsdirect.com.au/arduino-uno-development-board-with-usb-cable?gclid=CjwKCAjwhcjVBRBHEiwAoDe5x4QL-5WigOd4S8mDddVHCD3hPfnuuip0l1O2nTBYodGwS7CAsFO5SRoCBNwQAvD_BwE) |
+| Arduino 3 Axis Accelerometer | 1 | $5.45 | $5.45 | Aus Electronics Direct | [url](https://www.auselectronicsdirect.com.au/arduno-3-axis-accelerometer-module?gclid=CjwKCAjwhcjVBRBHEiwAoDe5x1lV8RstU_0TRqUqM50oJm-WR0vl_girZiKQIXyniN5XKXIzj0hVaxoCeg8QAvD_BwE) |
+| Wireless Transmitter | 1 | $13.95 | $13.95 | Jaycar | [url](https://www.jaycar.com.au/wireless-modules-transmitter-433mhz/p/ZW3100) |
+| Wireless Receiver | 1 | $13.95 | $13.95 | Jaycar | [url](https://www.jaycar.com.au/wireless-modules-receiver-433mhz/p/ZW3102) |
+| Arduino Water/Liquid Sensor Module | 1 | $2.15 | $2.15 | Aus Electronics Direct | [url](https://www.auselectronicsdirect.com.au/arduino-water-liquid-sensor-module) |
+| Hook-Up Wire Pack - 2 metres | 1 | $4.95 | $4.95 | Jaycar | [url](https://www.jaycar.com.au/hook-up-wire-pack-2-metres/p/WH3025) |
+| Universal Pre-Punched Experimenters Board - Small | 3 | $4.50 | $13.50 | Jaycar | [url](https://www.jaycar.com.au/universal-pre-punched-experimenters-board-small/p/HP9550) |
+| 1/4 Watt Carbon Film Resistors - 300 Pieces | 1 | $8.95 | $8.95 | Jaycar | [url](https://www.jaycar.com.au/1-4-watt-carbon-film-resistors-300-pieces/p/RR1680) |
+
+Total: $95.80
+
+## System Architecture
+
+![SystemArchitecture](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Prototype/SystemArchitecture.svg "System Architecture")<br />
+Updated to v1.0
+
+## Prototype
+
+
 
 ## Risks and Constraints
 

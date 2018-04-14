@@ -11,7 +11,7 @@
 ## Useful Links
 
 * [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr) 
-* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Thales-Techlauncher-2018-S1.pdf)
+* [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Thales%20Material/Thales-Techlauncher-2018-S1.pdf)
 * [Client's Vision](#clients-vision)
 * [Project Purpose](#project-purpose)
 * [Project Scope](#project-scope)
@@ -122,7 +122,7 @@ During weekly tutor meetings, the team either performs an audit presentation or 
 The team meetings with the clients fornightly to discuss the project. In this time, the team communicates with the client by asking questions and receiving feedback regarding the project. These meetings are held in Thales office complex off-campus for the convience of the clients.
 
 ## Timeline
-![Timeline](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Timeline.svg "Timeline")<br />
+![Timeline](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Decisions/Timeline.jpg "Timeline")<br />
 Updated to v1.1
 
 ## Contributors

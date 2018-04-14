@@ -83,8 +83,9 @@ If the project ends up being a success, the safety of employees that work on oil
 
 The original funding on the project was 100 AUD, however the this may vary depending on the scope of the projecct and may increase with proper cost analysis.
 The main resources required for the project include the following: <br />
+
 | Item | Amount | Price (each) | Price (total) | Supplier | URL | 
-|:----:|:------:|:------------:|:-------------:|:--------:|:---:|
+|:---- |:------:|:------------:|:-------------:|:--------:|:---:|
 | Arduino Uno | 2 | $16.45 | $32.90 | Aus Electronics Direct | [url](https://www.auselectronicsdirect.com.au/arduino-uno-development-board-with-usb-cable?gclid=CjwKCAjwhcjVBRBHEiwAoDe5x4QL-5WigOd4S8mDddVHCD3hPfnuuip0l1O2nTBYodGwS7CAsFO5SRoCBNwQAvD_BwE) |
 | Arduino 3 Axis Accelerometer | 1 | $5.45 | $5.45 | Aus Electronics Direct | [url](https://www.auselectronicsdirect.com.au/arduno-3-axis-accelerometer-module?gclid=CjwKCAjwhcjVBRBHEiwAoDe5x1lV8RstU_0TRqUqM50oJm-WR0vl_girZiKQIXyniN5XKXIzj0hVaxoCeg8QAvD_BwE) |
 | Wireless Transmitter | 1 | $13.95 | $13.95 | Jaycar | [url](https://www.jaycar.com.au/wireless-modules-transmitter-433mhz/p/ZW3100) |

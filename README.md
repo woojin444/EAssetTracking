@@ -65,19 +65,8 @@ This information will then be used to improve efficiency and safety in an oil ri
 The system should detect if any personnel has fallen off the oil rig into the ocean.
 
 ## Stakeholders
-There are multiple different stakeholders of the project. These include: the team, Thales, mining and oil companies and their employees.
 
-### Team
-The team directly affects the success of the project. The team has a deep desire to achieve a meaningful outcome for Thales. The team aims to do the best work possible to not only meet the course assessment but more importantly deliver the project with value to Thales. 
-
-### Thales
-Thales is the client of the project making them and the project team the two most important stakeholders in the project. Thales have an interest into this space as a potential future technology which they can sell. The success of this project could be a major factor in whether Thales pursues this technology further.  
-
-### Oil Companies
-Since Thales aims to market and sell the system to third parties, the oil companies that would purchase it are also important stakeholders for the project and their needs have to be considered. Although there are no specific companies at this stage, knowing where the technology will be used forms some boundaries on the design and gives information about the operating environment for the project. This also opens up the opportunity to contact the oil companies to better understand how they could benefit from an asset tracking system.
-
-### Oil Company Employees
-If the project ends up being a success, the safety of employees that work on oil-rigs may be improved. Once again there are no specific companies in mind however this group is still an important stakeholder in the project. 
+In-depth analysis on stakeholders is documented in our [wiki](https://github.com/woojin444/EAssetTracking/wiki/Stakeholders).
 
 ## Resources and Costs
 
@@ -104,7 +93,23 @@ Updated to v1.0
 
 ## Prototype
 
+The purpose of the rapid prototype in this project is to validate models and validate claims made by COTS products. Below shows a number of iterations of the prototype:
 
+### Iteration 1: RF Transmittion and Reception
+
+Testing of received signal strength in different environments to simulate an oil rig. This test will then be used to analyse the claims made by COTS products. This iteration will also be used to analyse the [path loss models](https://drive.google.com/open?id=1eTW31K58iL9IMQgo1sBdHNjTFcR5FB6I).<br />
+![Iteration1](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration1.png)<br />
+In this iteration, the two Arduinos and the wireless transmitters and recievers will be used. The system can also use path loss model to determine the distance from the transmitter to the reciever.<br />
+
+### Iteration 2: Accelerometer
+
+Addition of an accelerometer to the system as a way of detecting a falling personnel. This iteration is to add the accelerometer to the transmitter to compliment the distance tracking.<br />
+![Iteration2](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration2.png)<br />
+
+### Iteration 3: Water Sensor
+
+Addition of a water sensor to determine if a personnel has fallen into the ocean. The concept behind this iteration is that if the water sensor detects water after the accelerometer has detected a fall, the transmitter will send an alert to the network.<br />
+![Iteration3](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration3.png)<br />
 
 ## Risks and Constraints
 
@@ -118,8 +123,7 @@ Risks and constraints stated from the past audit have been significantly altered
 
 ## Feedback
 
-The team received feedback from our clients, tutor, course convenor and observers through various methods. The team analysed said feedback and reflected for improvements on the project and are shown in the [Google Drive](https://docs.google.com/document/d/1rkZmpdmAExL7jKnE6tXqHUPsCB86eKCPO98Ksk-Wqr4).
-As for feedback from the end users, please make note of the great difficulty in communicating with the end users since Thales has not specified.
+In-depth analysis on feedback is documented in our [wiki](https://github.com/woojin444/EAssetTracking/wiki/Feedback).
 
 ## Meetings: [Schedule](https://docs.google.com/document/d/1JzO9D_F1p9TK9-tkAFwtxMVBrur-hWyTMz_9RByLvB0/edit#heading=h.egrexsv7ilkk)
 

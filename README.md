@@ -107,7 +107,7 @@ Addition of an accelerometer to the system as a way of detecting a falling perso
 ![Iteration2](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration2.png)<br />
 ![Iteration2gif](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration2.gif)<br />
 
-#### Ieration 2 Progress:
+#### Iteration 2 Progress:
 * [21/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_21-04-2018)<br />
 * [27/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_27-04-2018)<br />
 

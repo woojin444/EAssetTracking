@@ -81,8 +81,8 @@ Total: $95.80
 
 ## System Architecture
 
-![SystemArchitecture](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Prototype/SystemArchitecture.svg "System Architecture")<br />
-Updated to v1.0
+![SystemArchitecture](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Prototype/SA3.png "System Architecture")<br />
+Updated to v2.0
 
 ## Prototype
 
@@ -99,11 +99,17 @@ In this iteration, the two Arduinos and the wireless transmitters and recievers 
 
 * [06/04/2018 ~ 08/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_06-04-2018)<br />
 * [09/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_09-04-2018)<br />
+* [15/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_15-04-2018)<br />
 
 ### Iteration 2: Accelerometer
 
 Addition of an accelerometer to the system as a way of detecting a falling personnel. This iteration is to add the accelerometer to the transmitter to compliment the distance tracking.<br />
 ![Iteration2](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration2.png)<br />
+![Iteration2gif](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration2.gif)<br />
+
+#### Ieration 2 Progress:
+* [21/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_21-04-2018)<br />
+* [27/04/2018](https://github.com/woojin444/EAssetTracking/wiki/_27-04-2018)<br />
 
 ### Iteration 3: Water Sensor
 

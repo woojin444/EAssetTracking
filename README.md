@@ -65,7 +65,7 @@ The system should detect if any personnel has fallen off the oil rig into the oc
 
 In-depth analysis on stakeholders is documented in our [wiki](https://github.com/woojin444/EAssetTracking/wiki/Stakeholders).
 
-## Market Research [Report](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Report%20Material/Report.docx)
+## Market Research [Report](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Report%20Material/Thales%20E-Asset%20Tracking%20Market%20Research%20Report.pdf)
 
 Market research report that provides context into the importance of personnel safety in an oil rig environment followed by a preliminary market research into the development of a personnel/asset tracking system.
 The key requirements of the system include (1) tracking asset and personnel locations, (2) assisting with evacuation or rescue protocols, and (3) monitoring worker fatigue levels. Market reserach has found that the personnel/asset tracking market sector is a highly saturated one.

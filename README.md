@@ -91,7 +91,7 @@ Total: $95.80
 
 ## System Architecture
 
-![SystemArchitecture](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Prototype/SA3.png "System Architecture")<br />
+![SystemArchitecture](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Prototype/Old/SA3.png "System Architecture")<br />
 Updated to v2.0
 
 ## Prototype

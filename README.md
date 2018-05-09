@@ -125,7 +125,7 @@ Addition of an accelerometer to the system as a way of detecting a falling perso
 
 Addition of a water sensor to determine if a personnel has fallen into the ocean. The concept behind this iteration is that if the water sensor detects water after the accelerometer has detected a fall, the transmitter will send an alert to the network.<br />
 ![Iteration3](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration3.png)<br />
-![Iteration3png](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration3.jpg)<br />
+![Iteration3png](https://github.com/woojin444/EAssetTracking/blob/master/Landing/Iteration3.JPG)<br />
 
 #### Iteration 3 Progress:
 * [Current](https://github.com/woojin444/EAssetTracking/wiki/_currentprototype)<br />

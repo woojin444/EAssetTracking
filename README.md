@@ -10,13 +10,19 @@
 
 ## Useful Links
 
+#### Repository Navigation
+
 | Repository | Project Overview | Prototype | Team | 
 |:---------- |:---------------- |:--------- |:---- |
 | - [Google Drive](https://drive.google.com/drive/folders/1BfC2GblDcJzaHpplwMftEAtmfsnnyhIr)<br />- [Wiki](https://github.com/woojin444/EAssetTracking/wiki)<br />- [Timeline](#timeline)<br />- [Tools](#tools) | - [Project Brief](https://github.com/woojin444/EAssetTracking/blob/master/GoogleDrive/Thales%20Material/Thales-Techlauncher-2018-S1.pdf)<br />- [Client's Vision](#clients-vision)<br />- [Project Purpose](#project-purpose)<br />- [Project Scope](#project-scope)<br />- [Stakeholders](#stakeholders)<br />- [Risks and Constraints](#risks-and-constraints) | - [Requirements](#requirements)<br />- [Market Research](#market-research-report)<br />- [Resources and Costs](#resources-and-costs)<br />- [System Architecture](#system-architecture)<br />- [Prototype](#prototype) | - [Contributors](#contributors)<br />- [Feedback](#feedback)<br />- [Meetings](#meetings-schedule) |
 
+#### Google Drive Navigation
+
 | Audit | Communication | Feedback | Poster | Prototype | Report | Team |
 |:----- |:------------- |:-------- |:------ |:--------- |:------ |:---- |
 | - [Audit 1](https://drive.google.com/drive/folders/1y55X56wR41BWdc-INBB-PgzWDtZAfDuu)<br />- [Audit 2](https://drive.google.com/drive/folders/1niHQiC3HlGjxB7LxeyPUCqieQ6pPC4lF)<br />- [Audit 3](https://drive.google.com/drive/folders/1Jlp1YsOPAJ_L0ppqvaMLLf6XjcQXQuWj) | - [Evidence](https://drive.google.com/drive/folders/1nL4WrCyNks4FXw5J5mlLNK7fY8sCJmsy) | - [Audit 1](https://docs.google.com/document/d/1z4ce8jiOP5BS-DCBktYG_ecBlSk4g8yzB99xRCobPNc/)<br />- [Audit 2](https://docs.google.com/document/d/1dMJXaQ5bdb4NfP8HoC8_hDzlo6WjSguHL17aVSgCGGU/)<br />- [Progess](https://docs.google.com/document/d/1GinydHvwoWvg8_FmPWRN07dxkfBBSm2k6rEktw4CLSE/) | - [Posters](https://drive.google.com/drive/folders/1fnYq-lFCJEIkKksVFZ3F5gqpZRsdCjGh)<br />- [Final Poster](https://drive.google.com/file/d/1Zbke_ts8AEnHPb5I1GQzVobtBP0i--JY/view?usp=sharing) | - [Plan](https://docs.google.com/document/d/1STjWk6nZ2ntJvb5yQdUQ0JDBcPtlyUovyW1HSS0KPSI/edit?usp=drive_web&ouid=115905292552116965306)<br />- [Changelog](https://drive.google.com/file/d/1O6_1PS-HTm2-oALJBoLcEpE5BRSMPPnm/view?usp=sharing)<br />- [Experiement](https://drive.google.com/file/d/1JXLToWVe2z-7d0ZderP5s2P8AkU7LE3V/view?usp=sharing)<br />- [Progress](https://docs.google.com/document/d/1GinydHvwoWvg8_FmPWRN07dxkfBBSm2k6rEktw4CLSE/) | - [Report](https://drive.google.com/file/d/1HB50Q4qmQPivfpQKV9z3MXViPxl3LEGt/view?usp=sharing)<br />- [Material](https://drive.google.com/drive/folders/1n_WAGFlM4QYN4xK5DSU4A9pErgQSh7ti) | - [Audit 2 Timeline](https://docs.google.com/spreadsheets/d/1dEhIBuTjhea2G2iN6Q3XQ6P45UTErMtmvX_0BM3bKAA/)<br />- [Audit 3 Timeline](https://docs.google.com/spreadsheets/d/1ez0cULniqETcGDZ65PkL87PQMMEe07bRgS43DZOlaMM/)<br />- [Team Roles](https://docs.google.com/document/d/1iuoYC2HRa-yqVIJLi4QCfLIe1ih_UgxTSx9MYSE4Unw/edit?usp=drive_web&ouid=115905292552116965306) |
+
+Please note that Google Drive navigation are linked to the online Google Drive, not the GitHub version.
 
 ## Client's Vision
 
